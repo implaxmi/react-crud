@@ -9,15 +9,13 @@
      "capacity": {
     "int": [
       100,
-      200,
-      300
+      200
     ]
   },
      "status": {
     "boolean": [
-      100,
-      200,
-      300
+      true,
+      false
     ]
   }
   }
