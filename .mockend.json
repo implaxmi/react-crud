@@ -11,12 +11,6 @@
       100,
       200
     ]
-  },
-     "status": {
-    "boolean": [
-      true,
-      false
-    ]
   }
   }
 }
