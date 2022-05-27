@@ -1,35 +1,20 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
-    },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
-    },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
-    }
-  }
+  {
+		"name": "Eos culpa et voluptatem.",
+		"cover": "https://picsum.photos/seed/09860/1920/270",
+		"createdAt": "2020-05-06T11:47:45Z",
+		"id": 1,
+		"isDraft": true,
+		"tag": "one",
+		"title": "corrupti ducimus"
+	},
+	{
+		"name": "Illo saepe consequuntur a libero deserunt a eos, perferendis sint, accusantium qui dolorum sed at.",
+		"cover": "https://picsum.photos/seed/09836/1920/270",
+		"createdAt": "2013-05-26T13:06:35Z",
+		"id": 2,
+		"isDraft": true,
+		"tag": "one",
+		"title": "repellendus"
+	},
 }
