@@ -1,10 +1,7 @@
 {
   "User": {
-  "name": {
-    "string": [
-    "laxmi",
-      "drishya"
-    ]
+  { "name": "ipsum" },
+  {"name" : "lorem"}
     
   }
 }
