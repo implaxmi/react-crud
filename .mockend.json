@@ -1,7 +1,7 @@
 {
-    "Car": {
- 
-            {"model":"Sentra", "doors":4}
-       
-    }
+  "User": {
+    "name": { "string": { "minLength": 3, "maxLength": 10 } },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" }
+  }
 }
