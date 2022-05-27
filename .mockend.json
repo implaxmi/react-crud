@@ -1,7 +1,6 @@
-[
-"User": { 
+{
+"User: {
   {"id" : 1, "name" : "laxmi"},
 {"id" : 2, "name" : "drishya"}
 }
-
-]
+}
