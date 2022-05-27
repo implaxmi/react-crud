@@ -1,12 +1,7 @@
-[
+{
   "User": {
-    "id": : 1,
-    "name" : "laxmi",
-    "capacity" : "3"
-  }, 
-  {
-  "id" : 2, 
-  "name" : "drishya",
-  "capacity" : "5"
+    "name": { "string": { "minLength": 3, "maxLength": 10 } },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" }
+  }
 }
-]
