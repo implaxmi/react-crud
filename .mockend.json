@@ -2,11 +2,11 @@
   "User": {
     "id": : 1,
     "name" : "laxmi",
-    "capacity" : 3,
+    "capacity" : 3
   }, 
   {
   "id" : 2, 
   "name" : "drishya",
-  "capacity" : 5,
+  "capacity" : 5
 }
 }
