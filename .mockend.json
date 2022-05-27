@@ -1,5 +1,5 @@
 {
-    "cars": {
+    "Car": {
         "Nissan": [
             {"model":"Sentra", "doors":4},
             {"model":"Maxima", "doors":4},
