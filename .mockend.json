@@ -1,7 +1,10 @@
 {
   "User": {
   "name": {
-    "string": "laxmi"
+    "string": [
+      "laxmi",
+      "drishya"
+    ]
     
   }
 }
