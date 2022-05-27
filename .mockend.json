@@ -1,8 +1,3 @@
 {
-  "User": {
-    "string": [
-      "Thor",
-      "Loki"
-    ]
-  }
+  "User": { "title": { "string": {} }
 }
