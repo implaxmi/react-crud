@@ -1,8 +1,8 @@
 {
-  "user":{
+  "user":[
      {"id":1,"name":"laxmi","email":"laxmi@gmail.com"},
      {"id":2,"name":"sita","email":"laxmi@gmail.com"},
      {"id":3,"name":"laxmi","email":"laxmi@gmail.com"},
-}
+]
 }
 
