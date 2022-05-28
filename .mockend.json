@@ -7,9 +7,9 @@
     ]
   },
      "capacity": {
-    "int": [
-      100,
-      200
+    "string": [
+      "100",
+      "200"
     ]
   },
      "status": { "boolean": {} },
