@@ -40,7 +40,7 @@ const User = ({ id, name, capacity, status, image, onEdit, onDelete }) => {
             name="capacity"
             defaultValue={capacity}
           />
-          <input type="checkbox" placeholder="Status" name="status" />
+          <input type="checkbox" name="status" />
           <input placeholder="Image" name="image" defaultValue={image} />
           <button className="update-btn" onSubmit={handleOnEditSubmit}>
             Update
