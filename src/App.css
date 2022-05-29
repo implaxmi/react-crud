@@ -1,94 +1,92 @@
-
 .header {
-    margin: 10px;
-    padding: 10px
-  }
-  
-  .form-container {
-    margin: auto;
-    width: 60%;
-  }
-  
-  .form-container form {
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .form-labels {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    width: 20%;
-    margin-right: 10px;
-  }
-  
-  .form-labels label {
-    margin: 10px;
-    padding: 2px;
-  }
-  
-  .form-inputs {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    width: 60%;
-  }
+  margin: 10px;
+  padding: 10px;
+}
 
+.form-container {
+  margin: auto;
+  width: 60%;
+}
 
-  .form-inputs input, select {
-    margin: 10px;
-    padding: 5px;
-    border: 1px solid gainsboro;
-    border-radius: 5px;
-    width: 100%;
-  }
+.form-container form {
+  display: flex;
+  flex-direction: row;
+}
 
+.form-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 20%;
+  margin-right: 10px;
+}
 
-  select {
-    color: #999;
-  }
+.form-labels label {
+  margin: 10px;
+  padding: 2px;
+}
 
-  .input-checkbox {
-    margin-left: -250px !important;
-  }
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 60%;
+}
 
-  
-  .btn-container {
-    margin: 10px;
-  }
-  
-  .submit-btn {
-    background-color: #230345;
-    margin-left: 5px;
-    padding: 10px;
-    border: 0px;
-    border-radius: 5px;
-    color: #dad5d5;
-  }
-  
-  .cancel-btn {
-    background-color: #e63232;
-    margin-left: 5px;
-    padding: 10px;
-    border: 0px;
-    border-radius: 5px;
-    color: #dad5d5;
-  }
-  
-  table, td, th {  
-    border: 1px solid #ddd;
-    text-align: center;
-  }
-  
-  table {
-    border-collapse: collapse;
-    margin: auto;
-    width: 80%;
-  }
-  
-  th, td {
-    padding: 15px;
-    width: 200px
- }
-  
-  
+.form-inputs input,
+select {
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  width: 100%;
+}
+
+select {
+  color: #999;
+}
+
+.input-checkbox {
+  margin-left: -250px !important;
+}
+
+.btn-container {
+  margin: 10px;
+}
+
+.submit-btn {
+  background-color: #230345;
+  margin-left: 5px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  color: #dad5d5;
+}
+
+.cancel-btn {
+  background-color: #e63232;
+  margin-left: 5px;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  color: #dad5d5;
+}
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  width: 80%;
+}
+
+th,
+td {
+  padding: 15px;
+  width: 200px;
+}
